@@ -1,6 +1,6 @@
 # Emma's Learning Journal
 
-Hello, My name is Emma, I am leaning how to code. Find me on Githu: 
+Hello, My name is Emma, I am leaning how to code. Find me on Github: 
 
 Your site should exist at https://USERNAME.github.io/learning-journal/
 The “source” for your site should be README.md file, written with Markdown
