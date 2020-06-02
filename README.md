@@ -1,2 +1,1 @@
-# Learning--journal
-Emma's Learning Journal
+#Emma's Learning Journal
